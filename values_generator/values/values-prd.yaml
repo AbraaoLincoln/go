@@ -1,0 +1,7 @@
+global:
+  enviroment: prd
+container:
+  env:
+    db_url: db-prd
+    db_user: usr
+    db_passwd: passwd

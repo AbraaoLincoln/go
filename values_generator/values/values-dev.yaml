@@ -1,0 +1,7 @@
+container:
+  env:
+    db_user: usr1
+    db_passwd: passwd1
+    db_url: db1
+global:
+  enviroment: dev

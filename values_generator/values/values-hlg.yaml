@@ -1,0 +1,7 @@
+container:
+  env:
+    db_url: db
+    db_user: usr
+    db_passwd: passwd
+global:
+  enviroment: hlg
